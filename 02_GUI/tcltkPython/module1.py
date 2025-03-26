@@ -1,4 +1,3 @@
 print('Module 1')
-
 if __name__ == '__main__':
-    print('My Private Data')
+    print('Module 1 Private Data')
